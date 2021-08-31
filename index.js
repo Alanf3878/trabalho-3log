@@ -9,7 +9,6 @@ while (conta >= 1) {
     conta --
 }
 
-
 for (let par = 0; par <= 100; par +=2){
     console.log(par)
 }
